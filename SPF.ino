@@ -1,4 +1,4 @@
-static long m_baudrate = 4800;
+static long m_baudrate = 115000;
 static uint8_t m_config = SERIAL_8N1;
 
 static long console_baudrate = 115200;
